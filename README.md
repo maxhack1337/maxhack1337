@@ -28,7 +28,7 @@
 <a href="https://www.swift.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/></a>
 <a href="https://www.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
-<a href="https://www.coreldraw.com/en/" target="_blank"><img src="https://svgshare.com/s/1238" width="40" height="40"/></a>
+<a href="https://www.coreldraw.com/en/" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="40" height="40"/></a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhack1337&layout=compact&custom_title=Languages&show_icons=true&disable_animations=false&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff"/></p>
