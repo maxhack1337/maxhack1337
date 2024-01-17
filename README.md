@@ -12,9 +12,9 @@
   <h3 align="center">About me:</h3>
 </p>
 <p align="center">
-- ✔️ My name is **Max**<br/>
-- ✔️ I am **23 years old**<br/>
-- ✔️ E-mail **maxi-2001@mail.ru**
+✔️ My name is **Max**<br/>
+✔️ I am **23 years old**<br/>
+✔️ E-mail **maxi-2001@mail.ru**
 </p>
 
 
@@ -31,6 +31,6 @@
 </svg></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhack1337&layout=compact&custom_title=Languages&show_icons=true&disable_animations=false&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhack1337&layout=compact&custom_title=Languages&show_icons=true&disable_animations=false&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxhack1337&show_icons=true&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff&cache_seconds=1800&locale=en"/></p>
