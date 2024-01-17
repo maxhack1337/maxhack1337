@@ -27,5 +27,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxhack1337&show_icons=true&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff&cache_seconds=1800&locale=en"/></p>
 <h3 align="center">🏆 Top Respositorys</h3>
-<p align="center">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxhack1337&repo=vk_enhancer&theme=react&bg_color=FFFFFF&text_color=606060&title_color=0096FF&hide_border=true&icon_color=0096FF&show_icons=false"/></p>
+<p align="center"><a href="https://github.com/maxhack1337/vk_enhancer/">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxhack1337&repo=vk_enhancer&theme=react&bg_color=FFFFFF&text_color=606060&title_color=0096FF&hide_border=true&icon_color=0096FF&show_icons=false"/></a></p>
