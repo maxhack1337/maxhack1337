@@ -20,14 +20,7 @@
 
 <h3 align="center">⚡ My skills ⚡</h3>
 <p align="center">
-<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.swift.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/maxhack1337" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio,dotnet,photoshop,figma,css,html,js,python,bots,nodejs,swift,cs,wordpress"/></a>
 <a href="https://www.coreldraw.com/en/" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="40" height="40"/></a>
 </p>
 
