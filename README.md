@@ -14,9 +14,9 @@
 <p align="center">
 
 ```
-# My name is <strong>Max</strong><br/>
-# I am <strong>23 years old</strong><br/>
-# E-mail <strong>maxi-2001@mail.ru</strong>
+# My name is Max
+# I am 23 years old
+# E-mail maxi-2001@mail.ru
 ```
 
 </p>
