@@ -18,11 +18,14 @@
 </p>
 
 
-<h3 align="center">⚡ My skills ⚡</h3>
+<h3 align="center">⚡ My skills</h3>
 <p align="center">
 <a href="https://github.com/maxhack1337" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio,dotnet,photoshop,figma,css,html,js,python,bots,nodejs,swift,cs,wordpress"/></a>
 <a href="https://github.com/maxhack1337" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="46" height="46"/></a>
 </p>
-<h3 align="center">🔧 My Stats 🔧</h3>
+<h3 align="center">⚙️ My Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxhack1337&show_icons=true&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff&cache_seconds=1800&locale=en"/></p>
+<h3 align="center">🏆 Top Respositorys</h3>
+<p align="center">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxhack1337&repo=vk_enhancer&theme=react&bg_color=FFFFFF&text_color=606060&title_color=0096FF&hide_border=true&icon_color=0096FF&show_icons=false"/></p>
