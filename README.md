@@ -9,12 +9,16 @@
       src="https://img.shields.io/badge/VK-%232E87FB?color=4a76a8&style=for-the-badge&logo=vk&logoColor=white"
       alt="VK"
   /></a>
-  <h3 align="center">About me:</h3>
+  <h3 align="center">ℹ️ About me:</h3>
 </p>
 <p align="center">
-✔️ My name is <strong>Max</strong><br/>
-✔️ I am <strong>23 years old</strong><br/>
-✔️ E-mail <strong>maxi-2001@mail.ru</strong>
+
+```
+# My name is <strong>Max</strong><br/>
+# I am <strong>23 years old</strong><br/>
+# E-mail <strong>maxi-2001@mail.ru</strong>
+```
+
 </p>
 
 
