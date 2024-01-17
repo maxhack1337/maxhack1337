@@ -24,5 +24,5 @@
 <a href="https://github.com/maxhack1337" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="46" height="46"/></a>
 </p>
 <h3>My Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhack1337&layout=compact&custom_title=Languages&show_icons=true&disable_animations=false&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff"/>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxhack1337&show_icons=true&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff&cache_seconds=1800&locale=en"/></p>
