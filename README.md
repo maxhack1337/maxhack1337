@@ -4,7 +4,7 @@
     ><img
       src="https://img.shields.io/badge/Telegram-%232E87FB?color=0088CC&style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
-  /></a><a href="https://vk.com/eremey"
+  /></a><a href="https://vk.com/ritard"
     ><img
       src="https://img.shields.io/badge/VK-%232E87FB?color=4a76a8&style=for-the-badge&logo=vk&logoColor=white"
       alt="VK"
