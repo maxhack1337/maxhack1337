@@ -21,7 +21,7 @@
 <h3 align="center">⚡ My skills ⚡</h3>
 <p align="center">
 <a href="https://github.com/maxhack1337" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio,dotnet,photoshop,figma,css,html,js,python,bots,nodejs,swift,cs,wordpress"/></a>
-<a href="https://github.com/maxhack1337" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="40" height="38"/></a>
+<a href="https://github.com/maxhack1337" target="_blank"><img src="https://svgshare.com/i/1238.svg" width="40" height="46"/></a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhack1337&layout=compact&custom_title=Languages&show_icons=true&disable_animations=false&icon_color=0096FF&title_color=0096FF&text_color=606060&border_color=ffffff&bg_color=ffffff"/></p>
