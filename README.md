@@ -16,7 +16,6 @@
 ```
 # My name is Max
 # I am 24 years old
-# E-mail maxi-2001@mail.ru
 ```
 
 </p>
